@@ -1,0 +1,7 @@
+# Angular build
+/dist
+/.angular/cache
+/node_modules
+
+# Env files
+.env*
